@@ -5,7 +5,7 @@ This repository contains all the assignment and tasks and even project done duri
 + Hackerrank all problem solving and python module
 + Numpy operation on data
 + EDA On Kaggle Dataset
-+ Visualization and Interpretation with Dataset
++ Visualization, Interpretation and Storytelling with Dataset
 + Complete Data science cycle on Random Dataset
 
 ### Project
