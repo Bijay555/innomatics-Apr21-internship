@@ -9,5 +9,6 @@ This repository contains all the assignment and tasks and even project done duri
 + Complete Data science cycle on Random Dataset
 
 ### Project
-Building End to End Music Recommender System and Deployed in Heroku
++ Building End to End Music Recommender System and Deployed in Heroku
++ The model is built and tested with popularity recommendation, colaborative filtering and content based filtering.
 
