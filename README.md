@@ -7,8 +7,10 @@ This repository contains all the assignment and tasks and even project done duri
 + EDA On Kaggle Dataset
 + Visualization, Interpretation and Storytelling with Dataset
 + Complete Data science cycle on Random Dataset
++ Building ML models and hyperparameter tuning
 
 ### Project
 + Building End to End Music Recommender System and Deployed in Heroku
 + The model is built and tested with popularity recommendation, colaborative filtering and content based filtering.
+
 
